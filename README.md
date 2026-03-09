@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chathura Lakshan Gamage</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+and+Statistics;Upcoming+data-analyst;Self-taught+Front-End+Developer;"></a>
+</p>
+
 <h3 align="center">A passionate data analyst & frontend developer from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathuralkxx&label=Profile%20views&color=0e75b6&style=flat" alt="chathuralkxx" /> </p>
